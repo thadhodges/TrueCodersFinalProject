@@ -1,0 +1,16 @@
+C:\WORK\REPO\TrueCodersFinalProject\thadhodgesfinalproject\thadhodgesfinalproject\bin\Debug\net5.0\thadhodgesfinalproject.exe
+C:\WORK\REPO\TrueCodersFinalProject\thadhodgesfinalproject\thadhodgesfinalproject\bin\Debug\net5.0\thadhodgesfinalproject.deps.json
+C:\WORK\REPO\TrueCodersFinalProject\thadhodgesfinalproject\thadhodgesfinalproject\bin\Debug\net5.0\thadhodgesfinalproject.runtimeconfig.json
+C:\WORK\REPO\TrueCodersFinalProject\thadhodgesfinalproject\thadhodgesfinalproject\bin\Debug\net5.0\thadhodgesfinalproject.runtimeconfig.dev.json
+C:\WORK\REPO\TrueCodersFinalProject\thadhodgesfinalproject\thadhodgesfinalproject\bin\Debug\net5.0\thadhodgesfinalproject.dll
+C:\WORK\REPO\TrueCodersFinalProject\thadhodgesfinalproject\thadhodgesfinalproject\bin\Debug\net5.0\ref\thadhodgesfinalproject.dll
+C:\WORK\REPO\TrueCodersFinalProject\thadhodgesfinalproject\thadhodgesfinalproject\bin\Debug\net5.0\thadhodgesfinalproject.pdb
+C:\WORK\REPO\TrueCodersFinalProject\thadhodgesfinalproject\thadhodgesfinalproject\obj\Debug\net5.0\thadhodgesfinalproject.csprojAssemblyReference.cache
+C:\WORK\REPO\TrueCodersFinalProject\thadhodgesfinalproject\thadhodgesfinalproject\obj\Debug\net5.0\thadhodgesfinalproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\REPO\TrueCodersFinalProject\thadhodgesfinalproject\thadhodgesfinalproject\obj\Debug\net5.0\thadhodgesfinalproject.AssemblyInfoInputs.cache
+C:\WORK\REPO\TrueCodersFinalProject\thadhodgesfinalproject\thadhodgesfinalproject\obj\Debug\net5.0\thadhodgesfinalproject.AssemblyInfo.cs
+C:\WORK\REPO\TrueCodersFinalProject\thadhodgesfinalproject\thadhodgesfinalproject\obj\Debug\net5.0\thadhodgesfinalproject.csproj.CoreCompileInputs.cache
+C:\WORK\REPO\TrueCodersFinalProject\thadhodgesfinalproject\thadhodgesfinalproject\obj\Debug\net5.0\thadhodgesfinalproject.dll
+C:\WORK\REPO\TrueCodersFinalProject\thadhodgesfinalproject\thadhodgesfinalproject\obj\Debug\net5.0\ref\thadhodgesfinalproject.dll
+C:\WORK\REPO\TrueCodersFinalProject\thadhodgesfinalproject\thadhodgesfinalproject\obj\Debug\net5.0\thadhodgesfinalproject.pdb
+C:\WORK\REPO\TrueCodersFinalProject\thadhodgesfinalproject\thadhodgesfinalproject\obj\Debug\net5.0\thadhodgesfinalproject.genruntimeconfig.cache
